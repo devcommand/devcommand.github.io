@@ -42,7 +42,9 @@ $on-laptop:        800px;
     }
 }
 
-
+.site-title {
+  font-family: courier, monospace;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
